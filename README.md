@@ -1,6 +1,6 @@
 Web Scraping Application from Node JS , Currently it is only fetch the top 10 coin data from cryptocurreny.com 
 
-http://forthebadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
 ## Installation
 
@@ -30,6 +30,6 @@ http://localhost:3000/api/price-data
 ### You will be able to see the top 10 data on ur localhost.
 
 ## Developed by
-[Purvansh Singh (Python / ML Developer)](https://www.linkedin.com/in/purvansh-singh-2ba971147/)
+[Nikhil Gupta (MERN Developer)](https://www.linkedin.com/in/purvansh-singh-2ba971147/)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
