@@ -30,6 +30,6 @@ http://localhost:3000/api/price-data
 ### You will be able to see the top 10 data on ur localhost.
 
 ## Developed by
-[Nikhil Gupta (MERN Developer)](https://www.linkedin.com/in/purvansh-singh-2ba971147/)
+[Nikhil Gupta (MERN Developer)] (https://www.linkedin.com/in/nikhil-khandelwal-3a6a44183)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
